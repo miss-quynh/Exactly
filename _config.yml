@@ -1,0 +1,10 @@
+# basic options
+title: Quynh Nguyen
+author: Quynh Nguyen
+email: qnguyenx3@gmail.com
+description: My personal blog
+github_username: miss-quynh
+
+# Build settings
+markdown: kramdown
+theme: minima
