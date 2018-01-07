@@ -1,6 +1,6 @@
 # [Quynh Nguyen](https://miss-quynh.github.io/)
 
-Welcome to my [personal blog](https://miss-quynh.github.io/) where I publish posts about fasion, calligraphy, and projects I worked on. For all inquires, you may leave a message via the contact page. Thank you for your time.
+Welcome to my [personal blog](https://miss-quynh.github.io/) where I publish posts about fashion, calligraphy, and projects I worked on. 
 
 ![Screenshot](img/screen-shot.jpg)
 
